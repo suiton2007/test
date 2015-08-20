@@ -1,0 +1,11 @@
+{
+    "name": "tecno/test",
+    "description": "test project",
+    "authors": [
+        {
+            "name": "Dixon Sparks",
+            "email": "suiton2007@gmail.com"
+        }
+    ],
+    "require": {}
+}
